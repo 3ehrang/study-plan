@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rIu4YXCvwcjbQyKx0EU1ag+NDkXPZtbLb69kjvhqdV71Pa11wkSYkDstHZcDHzpfoyw/rHsYjyGFhoRqoCBI9A==",
+  "dgSpecHash": "7XAfTk44QfOS4p+pPdCxqO3ewmqiAywH6JufgWZ6gnJHDr/7Of+pVibhj95VrR1efWAr+nri3Ji13R5XufSVYw==",
   "success": true,
-  "projectFilePath": "/mnt/c/app/study-plan/src/Problems/Problems.csproj",
+  "projectFilePath": "C:\\app\\study-plan\\src\\Problems\\Problems.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

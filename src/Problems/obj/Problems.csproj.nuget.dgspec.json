@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/c/app/study-plan/src/Problems/Problems.csproj": {}
+    "C:\\app\\study-plan\\src\\Problems\\Problems.csproj": {}
   },
   "projects": {
-    "/mnt/c/app/study-plan/src/Problems/Problems.csproj": {
+    "C:\\app\\study-plan\\src\\Problems\\Problems.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/c/app/study-plan/src/Problems/Problems.csproj",
+        "projectUniqueName": "C:\\app\\study-plan\\src\\Problems\\Problems.csproj",
         "projectName": "Problems",
-        "projectPath": "/mnt/c/app/study-plan/src/Problems/Problems.csproj",
-        "packagesPath": "/home/beh_r/.nuget/packages/",
-        "outputPath": "/mnt/c/app/study-plan/src/Problems/obj/",
+        "projectPath": "C:\\app\\study-plan\\src\\Problems\\Problems.csproj",
+        "packagesPath": "C:\\Users\\beh_r\\.nuget\\packages\\",
+        "outputPath": "C:\\app\\study-plan\\src\\Problems\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/beh_r/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\beh_r\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
